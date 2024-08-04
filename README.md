@@ -5,7 +5,8 @@ A small node script to parse Aerial videos from a specified tarfile to return th
 ## Usage
 
 1. Choose a tar file from the specified list:
-<script src="https://gist.githubusercontent.com/theothernt/57a51cade0c12c407f48a5121e0939d5/raw/7d59b1c63b741f3c224dc6901f6a16c06e63bb0a/apple-tv-screen-saver-feeds.txt" />
+
+<script src="https://gist.github.com/theothernt/57a51cade0c12c407f48a5121e0939d5.js"></script>
 
 2. Download the tar file and clone the project.
 
